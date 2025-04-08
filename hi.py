@@ -1,1 +1,2 @@
-print("Hwllo Github new Badge")
+print("Hello Github new Badge")
+print("Hey")
